@@ -1,7 +1,15 @@
 {
   "completedTopics": [],
   "currentTopic": "Data Science",
-  "pdfs": [],
+  "pdfs": [
+    {
+      "topic": "Data Science",
+      "volume": 1,
+      "url": "https://emalawi.github.io/ai-research-library/pdfs/data-science-volume-1.html",
+      "date": "6/10/2026",
+      "fileName": "pdfs/data-science-volume-1.html"
+    }
+  ],
   "logs": [
     "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Started researching: Internet of Things ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ 5/27/2026, 5:58:57 PM",
     "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Writing Volume 1 of 3 for: Internet of Things",
@@ -16,7 +24,8 @@
     "ð Started researching: Natural Language Processing â 5/29/2026, 4:06:01 AM",
     "ð Writing Volume 1 of 3 for: Natural Language Processing",
     "🔍 Started researching: Data Science — 6/10/2026, 11:37:59 PM",
-    "📝 Writing Volume 1 of 3 for: Data Science"
+    "📝 Writing Volume 1 of 3 for: Data Science",
+    "✅ Published: Data Science Volume 1"
   ],
-  "lastUpdated": "2026-06-10T23:38:00.690Z"
+  "lastUpdated": "2026-06-10T23:38:02.528Z"
 }

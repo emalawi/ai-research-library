@@ -8,6 +8,13 @@
       "url": "https://emalawi.github.io/ai-research-library/pdfs/data-science-volume-1.html",
       "date": "6/10/2026",
       "fileName": "pdfs/data-science-volume-1.html"
+    },
+    {
+      "topic": "Data Science",
+      "volume": 2,
+      "url": "https://emalawi.github.io/ai-research-library/pdfs/data-science-volume-2.html",
+      "date": "6/10/2026",
+      "fileName": "pdfs/data-science-volume-2.html"
     }
   ],
   "logs": [
@@ -26,7 +33,8 @@
     "🔍 Started researching: Data Science — 6/10/2026, 11:37:59 PM",
     "📝 Writing Volume 1 of 3 for: Data Science",
     "✅ Published: Data Science Volume 1",
-    "📝 Writing Volume 2 of 3 for: Data Science"
+    "📝 Writing Volume 2 of 3 for: Data Science",
+    "✅ Published: Data Science Volume 2"
   ],
-  "lastUpdated": "2026-06-10T23:38:04.397Z"
+  "lastUpdated": "2026-06-10T23:38:06.210Z"
 }

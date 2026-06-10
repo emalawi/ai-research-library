@@ -1,6 +1,8 @@
 {
-  "completedTopics": [],
-  "currentTopic": "Data Science",
+  "completedTopics": [
+    "Data Science"
+  ],
+  "currentTopic": null,
   "pdfs": [
     {
       "topic": "Data Science",
@@ -43,7 +45,8 @@
     "📝 Writing Volume 2 of 3 for: Data Science",
     "✅ Published: Data Science Volume 2",
     "📝 Writing Volume 3 of 3 for: Data Science",
-    "✅ Published: Data Science Volume 3"
+    "✅ Published: Data Science Volume 3",
+    "🎉 Completed all volumes for: Data Science"
   ],
-  "lastUpdated": "2026-06-10T23:38:10.671Z"
+  "lastUpdated": "2026-06-10T23:38:12.805Z"
 }
